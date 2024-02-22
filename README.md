@@ -8,7 +8,7 @@ Learning Multi-Agent Communication from Graph Modeling Perspective
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
 <img src="https://img.shields.io/badge/License-Apache_2.0-green.svg" alt="License">
 
-<h4>  |
+<h4> |<a href="https://openreview.net/forum?id=Qox9rO0kN0"> 📑 Paper </a> |
 <a href="https://github.com/charleshsc/CommFormer"> 🐱 Github Repo </a> |
 </h4>
 
@@ -23,7 +23,7 @@ _**Shengchao Hu<sup>1,2</sup>, Li Shen<sup>3\*</sup>, Ya Zhang<sup>1,2</sup>, Da
 _<sup>1</sup> Shanghai Jiao Tong University,
 <sup>2</sup> Shanghai AI Laboratory,
 <sup>3</sup> JD Explore Academy,
-<sup>4</sup> The University of Sydney._
+<sup>4</sup> Nanyang Technological University._
 
 </div>
 
