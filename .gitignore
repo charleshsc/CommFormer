@@ -1,0 +1,11 @@
+.DS_Store
+
+3rdparty/
+**__pycache__**
+
+
+**/results/**
+
+**plt/
+
+multiagent-particle-envs/
