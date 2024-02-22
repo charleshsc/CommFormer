@@ -8,8 +8,8 @@ Learning Multi-Agent Communication from Graph Modeling Perspective
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
 <img src="https://img.shields.io/badge/License-Apache_2.0-green.svg" alt="License">
 
-<h4> |<a href="https://arxiv.org/abs/2401.10491"> 📑 Paper </a> |
-<a href="https://github.com/fanqiwan/FuseLLM"> 🐱 Github Repo </a> |
+<h4>  |
+<a href="https://github.com/charleshsc/CommFormer"> 🐱 Github Repo </a> |
 </h4>
 
 <!-- **Authors:** -->
